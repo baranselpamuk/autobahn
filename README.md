@@ -138,3 +138,5 @@ Here are some [examples] (https://github.com/tavendo/AutobahnJS#show-me-some-cod
 Here's a [plunker](http://plnkr.co/edit/8vcBDUzIhp48JtuTGIaj?p=info) that will allow you to run some tests against a local router
 
 For AngularJS on the frontend, use the [Angular WAMP](https://github.com/voryx/angular-wamp) wrapper.
+
+
